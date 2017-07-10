@@ -12,7 +12,7 @@ import pojo.shopdata.Principal;
 import txttojson.BagOfPrimitives;
 
 public class ParseKeelungShopJson {
-
+//第一次commit測試修改
     public static void main(String[] args) throws IOException {
         Gson gson = new Gson();
         ArrayList<String> list = new ArrayList<>();
