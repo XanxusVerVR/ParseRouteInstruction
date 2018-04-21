@@ -1,0 +1,19 @@
+[
+    [
+        {
+            "distance":"24 公尺",
+            "duration":"1 分",
+            "end_location":{
+                "X":120.2122234,
+                "Y":22.9970535
+            },
+            "start_location":{
+                "X":120.2123548,
+                "Y":22.9971968
+            },
+            "html_instructions":"於祥豐街/市9鄉道向左轉繼續開在市9鄉道上",
+            "polyline":"osjkCe~u|UH?D?B@BB@B@@@D?F",
+            "travel_mode":"WALKING"
+        }
+    ]
+]
